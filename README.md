@@ -1,6 +1,3 @@
-# helix-design-tokens
-Helix Design System
-
 # Intro
 
 Helix is a [themeable design system](https://bradfrost.com/blog/post/creating-themeable-design-systems/) that can be skinned to match any Pfizer brand. Helix theming is accomplished through a robust variable system that maps a brand's variables to UI components. 
